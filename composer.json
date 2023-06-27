@@ -1,0 +1,16 @@
+{
+  "name": "samson/samson.discount",
+  "description": "Модуль 'Скидок' ТЗ",
+  "type": "package",
+  "authors": [
+    {
+      "name": "Остроушко Александр",
+      "email": "ostroushko-1992@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Samson\\Discount\\": "lib/"
+    }
+  }
+}
